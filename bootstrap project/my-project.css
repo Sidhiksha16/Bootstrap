@@ -1,0 +1,18 @@
+*{
+    font-family: cursive;
+    
+}
+
+body{
+    background-color: #f1fbff;
+}
+
+.about-image img{
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+}
+
+.about-content{
+    padding: 20px;
+}
